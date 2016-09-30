@@ -1,7 +1,7 @@
 <?php
-$host = "localhost";
-$user = "root";
-$pass="";
+$host = "nissanhost";
+$user = "nissansitumeang";
+$pass="n15san26";
 $db = "perpustakaan";
 
 $koneksi = mysql_connect($host,$user,$pass);
