@@ -1,0 +1,2 @@
+# koneksi1
+pemula
